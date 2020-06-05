@@ -1,0 +1,86 @@
+///////////////////
+./oracle 
+Pass : Vm1dta123456789#$
+change to run 
+connect SYS CDB1 --> in container database -- > modify state Test :D 
+///////////////////
+
+
+Open Source Wind Turbine v1.0 - Construction Tutorial Animation
+
+
+
+////////
+
+
+Group,CustomerZurJpn
+
+mvn -P Group -P CustomerZurJpn clean install -Dversion=2.0-SNAPSHOT
+
+$ git checkout ZJNP_DAY1_CR && git submodule foreach git checkout ZJNP_DAY1_CR
+
+git pull origin ZJNP_DAY1_CR && git submodule foreach git pull origin ZJNP_DAY1_CR
+
+// Web Zurich
+http://localhost:8080/aaa-customerZurJpn-web/FirstServlet
+
+
+Vm1dta123456789#$
+
+// run tomcat in noteZurich
+startup.bat
+
+
+
+https://dxcportal.sharepoint.com/sites/ZurichJapan/Shared%20Documents/Training/Day%201%20-%20New%20Business/Walkthrough%20on%20the%20business%20of%20Zurich.mp4
+
+https://dxcportal.sharepoint.com/sites/ZurichJapan/Shared%20Documents/Training/Day%201%20-%20New%20Business/Sonarqube,%20TestNG%20and%20Jacoco.mp4
+
+/
+https://dxcportal.sharepoint.com/sites/zurichGIJapanNewPAS/Shared%20Documents/Forms/Document%20View%20with%20Checkout.aspx?viewid=b23e063a%2D0d62%2D447f%2Db6b3%2D671d1fd65d0d&id=%2Fsites%2FzurichGIJapanNewPAS%2FShared%20Documents%2FPhase%202%20PA%2F003%5FExecution%2F01%2EIG%2F02%2ETSD%2F01%2EITR%2D01%2FNewPAS%2DP2%2DTSD%2DNB%20Quotations%20NB
+/
+
+
+G1SALPUPLD
+
+C:\\Zurich\\integral-Group\ReportOut\SpoolingPrint\ENGLISH\UploadFolder\\SALESPLAN
+
+/
+delete from slck where entity = ''
+/
+$ git submodule foreach git checkout ZURICH_DEPLOY && git checkout ZURICH_DEPLOY
+
+
+/////
+http://20.203.162.59:9082/ZurichIntegralGroup
+
+///////
+RESTORE DB 
+IN DBA
+drop database 
+
+change the password  
+
+///////
+14032X09  10937A , D-MUVWXY-002-002001 350000UZZZZ05110 50346808 50346865
+
+/////
+change db phải sửa 3 chỗ Data.propertis, customerZurJpn-services, quizpo line 74
+
+////
+
+Ticket #ZJNPG-6615 NewPAS-Day2-TSD-68_Breast Cancer CR Development 
+
+//////////
+resolve conflict on git 
+b1: delete branch on repo
+b2: on local : switch check out another branch 
+b3 : git branhc -D branchname
+b4 : switch check out branch you want with clone code from origin code 
+/
+git branhc -D branchname
+
+/
+
+///////////////
+select * from TOTPAMLETPRT where policynumber = '14029JX6';

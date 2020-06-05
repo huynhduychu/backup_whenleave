@@ -1,0 +1,264 @@
+﻿Pass global : LinhChi123@		ThaoTran123@		VoVanMy123@		MyName123@	
+Pass local : NewChange123@			
+MK ACB : LinhChi123@
+MK citi banK : ThaoTran12
+share
+HoangDung94
+
+oracle Quang
+    quangnn1206@gmail.com
+    Quang123
+
+
+11534851 
+
+RiengNguyen123@
+
+Pass .\SOE-Load : ThaoTran12345@
+
+Pass ACB Bank : LinhChi123@
+
+Pass github ca nhan :id:huynhduychu, pass: hoil@mjzegai1
+
+DXC01 VNMPaxus1991#10
+
+DXC02 VNMPaxus1992#09
+
+DXC03 VNMPaxus1993#08
+
+oracle pass : Chu123
+
+https://dxcportal-my.sharepoint.com/personal/chuynh23_csc_com/_layouts/15/onedrive.aspx?fbclid=IwAR0EDQBkLhf5vBO-kXHFtL0L_ieMNDOE8JsH124Y8sGLESADq76LGQAsVA0&id=%2Fpersonal%2Fchuynh23_csc_com%2FDocuments%2FUpload%20Win
+
+https://outlook.office365.com/owa/?realm=csc.com&exsvurl=1&ll-cc=1066&modurl=0&path=/mail/inbox
+
+// HKMC Share Point 
+https://dxcportal.sharepoint.com/sites/IntegralLifeHKMCProject/Shared%20Documents/Forms/AllItems.aspx?viewid=96bd6d50%2D367c%2D4654%2Da958%2Dcc54af50c3a8
+
+Token 
+4e488f89c5ad9bbf0189fafa4de10e68ea4891d9
+
+/ FT
+http://ec2-54-255-235-73.ap-southeast-1.compute.amazonaws.com/FT/HKMCWeb/
+/
+http://ec2-54-255-235-73.ap-southeast-1.compute.amazonaws.com/HKMC-FT-reports/
+
+//
+Link RT
+http://ec2-54-255-235-73.ap-southeast-1.compute.amazonaws.com/RT/HKMCWeb/
+/
+http://ec2-54-255-235-73.ap-southeast-1.compute.amazonaws.com/HKMC-RT-reports/
+
+//
+https://mfa.ssp.csc.com/vipssp/ 
+ 
+// link jira
+https://jira.integral.digital/jira/secure/Dashboard.jspa?selectPageId=12807
+//
+https://etes.csc.com/iTES/Loginframe.asp
+//
+https://portal.office.com/account/#apps
+
+
+• Admin Url:                           	http://20.203.133.135:18313/ft/GroupAsiaWeb
+• Report/Logs Url:                		http://20.203.133.135/integral/ft/group/mssql/reports/
+• Admin Url:                           	http://20.203.133.135:18312/LifeAsiaWeb
+• Report/Logs Url:                 		http://20.203.133.135/integral/ft/life/reports
+• Admin Url:                           	20.203.133.135:18311/ft/PolisyAsiaWeb/
+• Report/Logs Url:                 		http://20.203.133.135/integral/ft/pnc/reports/
+
+
+schedule = process 
++Transaction code : T1688  => authories 
++ process 
++ schedule 
++ add process 
+
+Insert into UTRC (USERID,COMPANY,TRANSCD,USRPRF,JOBNM,DATIME) values ('UNDERWR1','*','B999','UNDERWR1','UNDERWR1',current_timestamp);
+
+-DQuipoz.LifeAsiaWeb.XMLPath="D:\HKMCP3\integral-Life\CSCLifeAsiaApp\src\main\resources\QuipozCfg.xml"
+-Doracle.jdbc.autoCommitSpecCompliant=false
+
+link Hung Truong Share
+https://dxcportal.sharepoint.com/:w:/r/sites/IntegralLifeHKMCProject/_layouts/15/Doc.aspx?sourcedoc=%7BBFEB2614-62A9-42E9-8958-8D52F6A67475%7D&file=01.%20Install%20oracle.docx&action=default&mobileredirect=true
+
+//
+http://ec2-54-255-235-73.ap-southeast-1.compute.amazonaws.com/HKMC-Sftp/
+
+// Link up load
+http://ec2-54-255-235-73.ap-southeast-1.compute.amazonaws.com/uploadfile/upload
+//
+LOGGER.info("Missing item config: Don't have item " + ebz215 + " in TR386");
+
+// Link Share point Hung Truong
+https://dxcportal.sharepoint.com/sites/IntegralLifeHKMCProject/Shared%20Documents/Forms/AllItems.aspx?id=/sites/IntegralLifeHKMCProject/Shared%20Documents/Training%20recordings/Hung-Truong%27s%20Legacy%20Integral%20Life
+//
+
+//cookbook HKMC viet Nam
+https://dxcportal.sharepoint.com/sites/hkmc/Shared%20Documents/Forms/AllItems.aspx?cid=be26813d-7e2b-4641-8b2a-ccc9a9b17ad5&RootFolder=%2Fsites%2Fhkmc%2FShared%20Documents%2F7-Training%2FCookbook&FolderCTID=0x012000C0C67959768C8A439622D459D81389F8
+
+minh co 2 cho de code va da build va depoly ok : 
+ + 1 la trong HKMCI  :: localhost:8080/HKMCWeb
+ + 2 la trong HKMCP4 :: localhost:8088/HKMCWeb
+ 
+ https://github.dxc.com/chuynh23/PrintXpress/
+
+ list Agent
+004: 004001
+039: 039001
+043: 043001
+012: 012001 
+
+60000596
+60000590
+
+nter \\20.203.141.109\ if you want to access/map network drive for Software/Users folder (X:, U: )
+Enter \\20.203.141.12\ if you want to access/map network drive for Operations/Company (O:, Q: )
+ 
+ ng g c search-entities
+ npm run dev
+
+DUNG ITEM NBS CHO LETTER ZNBFUPS
+
+===
+09270467 
+/*
+
+Duong Dinh Cong Trang nuoc ngap toi' hang'
+Duong Nguyen Du nuoc ngap toi' Ku
+tom' lai 1 cau "di xe hoi cung phai biet boi"
+*/
+
+https://tapchilaptrinh.vn/2012/08/10/thiet_ke_bo_cuc_web_div_css/
+
+// web eform 
+http://localhost:8080/subscription/registration-of-interest
+
+/
+dxc1 / W@lc0me1 
+/
+20.203.7.137
+hoang chi phong
+/
+
+mvn -Dmaven.repo.local=%AFA_MAVEN_PATH%\.m2\afa\repository clean install -DskipTests 
+//
+
+IP: 172.31.14.122
+SID: HKDB
+User: hkmc1
+Password: P@ssword123
+
+ITS
+http://20.203.133.167:8088/FrontPage.SuiteHkmc
+
+
+HKMC_CI
+Online: http://20.203.162.78/HKMCWeb/FirstServlet
+Upload jasper file: http://20.203.162.78/uploadfile/upload
+ITS: http://20.203.162.102:8088/FrontPage.SuiteHkmc.SuiteSmokeTestingFt?suite
+
+
+lua chon loai hinh kinh doanh
+dat ten
+dia chi doanh nghiep 
+xac dinh von dieu le 
+xac dinh chuc danh nguoi đại diện theo pháp luật
+xác định ngành nghề kinh doanh 
+
+// DataDictionary
+http://20.203.162.78:4200
+/
+http://20.203.133.159:4200
+
+/// khi oracle hết hạn 
+alter user vm1dta identified by "vm1dta12#$";
+/
+sys / Gu0ma0
+
+/
+	HUYNH DUY CHU	11534851	DXC	9 - 14	3249221	6 - 14	No: 0821	000000000346B6FA
+/
+quangnn1206@gmail.com
+Quang123
+token_lap
+2618dd5675e90a69133dc72427dc8f6b14f293b8
+/
+
+// 
+may in cong ty 
+\\DXCDSPHCM001.vdc.csc.com
+
+cf bụi sài gòn
+
+- Khóa học jsp servlet jdbc cơ bản miễn phí
+http://laptrinhjavaweb.com/jsp-servlet
+
+- Khóa học spring mvc cơ bản miễn phí:
+http://laptrinhjavaweb.com/springmvc
+
+- Khóa học spring boot cơ bản miễn phí:
+http://laptrinhjavaweb.com/springboot
+
+Mọi thông tin liện hệ:
+- Fanpage: https://www.facebook.com/laptrinhjavaweb
+- Website: http://laptrinhjavaweb.com
+
+
+https://github.com/glowroot/glowroot/releases/download/v0.13.0/glowroot-0.13.0-dist.zip 
+
+-javaagent:C:\glowroot\glowroot.jar 
+
+https://thietkedocmac.com/
+
+link logo: 
+https://placeit.net
+
+//
+link for dowload template
+https://github.com/BlackrockDigital
+
+///HKMCCI 
+Online: http://20.203.162.78/HKMCWeb/FirstServlet
+
+Upload jasper file: http://20.203.162.78/uploadfile/upload
+
+ITS: http://20.203.162.102:8088/FrontPage.SuiteHkmc.SuiteSmokeTestingFt?suite
+
+Upload Unit Test 
+https://dxcportal.sharepoint.com/sites/hkmc/Shared%20Documents/Forms/AllItems.aspx?viewid=3d6e4abf%2D90e7%2D41b1%2D8337%2D6223bd9221b6&id=%2Fsites%2Fhkmc%2FShared%20Documents%2F4%2DTesting%2FUnit%20Test%2FPhase%204%2E2%2FBS410
+
+
+///wordpress
+tenWebsite : SongViet
+ten nguoi dung : huynhduychu
+mat khau : LinhChi123@
+
+// link deploy website
+https://console.firebase.google.com/project/songviet-9469d/hosting/main
+/
+
+tao contract = PS;
+chưa issue = UW 
+isuse XOng = IF
+/
+
+C:\HKMCCI\integral-Life\ReportOut\SpoolingPrint\ENGLISH\csvOutput\UNDERWR1\DocumentUpload
+/
+https://o7planning.org/vi/10201/huong-dan-lap-trinh-java-hibernate-cho-nguoi-moi-bat-dau
+/
+https://stackjava.com/hibernate/series-hibernate-phan-1-gioi-thieu-ve-hibernate-framework.ht
+
+// XML
+http://20.203.162.78/reports/PrintXpressReports/archive
+
+// PDF 
+http://20.203.162.78/reports/XMLPrint/ENGLISH/PRINTOUTPUT/VM1/
+//
+image CI 
+/home/oracle/Integral/HKMC/reports/PrintXpressReports/images/
+
+/
+https://github.com/huynhduychu/websiteInAn.git
+/
+
